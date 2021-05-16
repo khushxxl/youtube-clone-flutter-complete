@@ -7,5 +7,9 @@ A new Flutter project.
 This is Version-01 of youtube clone i will improvsise it in future you can star this repo and use it later
 This has multiple pages inegrated in bottom Nav bar with same UI as that of Youtube Itself ! 
 
-![Simulator Screen Shot - iPhone SE (2nd generation) - 2021-05-16 at 13 52 23](https://user-images.githubusercontent.com/73185436/118390684-03a85580-b64e-11eb-9036-ad6731372630.png)
-![Simulator Screen Shot - iPhone SE (2nd generation) - 2021-05-16 at 13 52 35](https://user-images.githubusercontent.com/73185436/118390693-0b67fa00-b64e-11eb-841f-1f0ad031be02.png)
+
+
+ <img width="301" alt="Screenshot 2021-05-16 at 1 54 42 PM" src="https://user-images.githubusercontent.com/73185436/118390740-54b84980-b64e-11eb-9d22-6fa9c42bd865.png">
+
+<img width="301" alt="Screenshot 2021-05-16 at 1 54 52 PM" src="https://user-images.githubusercontent.com/73185436/118390731-4cf8a500-b64e-11eb-98b7-7f039bc373c5.png">
+ 
